@@ -1,5 +1,5 @@
 {
-    "name": "flarum/lang-english",
+    "name": "tadejma/lang-english",
     "type": "flarum-extension",
     "description": "English language pack.",
     "keywords": ["locale"],
