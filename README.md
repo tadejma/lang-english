@@ -2,8 +2,8 @@
 
 ## Installation
 
-This language pack is bundled with [Flarum](http://flarum.org/).
+composer remove  tadejma/flarum-slo
 
-## Translating Flarum
+## Slovenian Language
 
-Because Flarum is at an early development stage, instructions to translate it are currently unavailable. Please check [our documentation](http://flarum.org/docs/translate/) when it will be written.
+This is translation for Slovenian language of Flarum
