@@ -92,7 +92,7 @@ validation:
   url: "The :attribute format is invalid."
 
   attributes:
-    username: username
+    username: uporabniško ime
     password: geslo
     email: email
     title: title
