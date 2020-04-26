@@ -93,7 +93,7 @@ validation:
 
   attributes:
     username: username
-    password: password
+    password: geslo
     email: email
     title: title
     content: content
