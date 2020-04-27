@@ -374,6 +374,9 @@ core:
       title: => core.ref.sign_up
       username_placeholder: => core.ref.username
       welcome_text: "Pozdravljen, {username}!"
+      username: "Uporabniško ime"
+      email: "Email"
+      password: "Geslo"
 
     # These translations are used in the user profile page and profile popup.
     user:
