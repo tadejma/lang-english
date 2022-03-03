@@ -5,11 +5,11 @@
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
-        "flarum/core": "^0.1.0-beta.15"
+        "flarum/core": "*"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.1.x-dev"
+            "dev-master": "1.0.x-dev"
         },
         "flarum-extension": {
             "title": "Slovenian",
